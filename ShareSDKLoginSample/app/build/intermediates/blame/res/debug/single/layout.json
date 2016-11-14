@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Demo\\third\\v2.7.7\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_page.xml",
+        "source": "D:\\Demo\\third\\v2.7.7\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\layout\\register_page.xml"
+    },
+    {
+        "merged": "D:\\Demo\\third\\v2.7.7\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "D:\\Demo\\third\\v2.7.7\\ShareSDK for Android Sample\\ShareSDKLoginSample\\app\\src\\main\\res\\layout\\login_page.xml"
+    }
+]
